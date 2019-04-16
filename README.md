@@ -1,7 +1,7 @@
 # Minesweeper-Example
 Example for getting Adjacent Nodes in a 2D Array
 
-Included Methods:
+## Included Methods:
 public static ArrayList<Tile> loopOne(int [][] array, int rowTarget, int colTarget, int maxRowSize, int maxColSize)
 > Returns an ArrayList of Tiles from a 2D Integer Array
   
